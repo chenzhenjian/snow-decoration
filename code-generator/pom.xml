@@ -6,7 +6,7 @@
 	<artifactId>ttn-generator</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
-	<description>ttn-generator</description>
+	<description>code-generator</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
